@@ -35,4 +35,4 @@ With our model having a highly accurate fit to the actual data. We'll continue t
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3>To view the Jupyter Notebook with all of my work done, click on "sales_forecasting.ipynb" and to see my source for the dataset, click on "train.csv"</h3>
+<h3>To view the Jupyter Notebook with all of my work done, click on "sales_forecasting.ipynb" and to see my source for the mock dataset, click on "train.csv"</h3>
