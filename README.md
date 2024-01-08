@@ -10,7 +10,7 @@ Demonstrated understanding of machine learning by creating a brief sales forecas
 
 <h2>Results</h2>
 
-Measured fit of model to actual data. 
+Measured the fit of the model to the actual data. 
 * R-squared Score: 0.990615
 * Mean Absolute Error: 12433.184
 * Mean Squared Error: 263129677.801
