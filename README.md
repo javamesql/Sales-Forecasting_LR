@@ -33,3 +33,6 @@ With our model having a highly accurate fit to the actual data. We'll continue t
 
 ![image](https://github.com/javamesql/Sales-Forecasting_LR/assets/141413672/00429783-7c7f-4160-a11a-a2125da1d9b0)
 
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+<h3>To view the Jupyter Notebook with all of my work done, click on "sales_forecasting.ipynb" and to see my source for the dataset, click on "train.csv"</h3>
